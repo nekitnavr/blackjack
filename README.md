@@ -1,4 +1,15 @@
 # Blackjack
+# Milestone 3: Progress Discussion
+* What currently works. By this point, aim to have at least one core feature running.
+  Currently we are still working on our features but we have some basic features running. A core feature we hope to add soon is the actual gameplay, currently we have the background parts, not the actual interface for users.
+* What remains to be completed.
+- Actual gameplay as well as scorekeeping
+* One challenge or scope concern.
+ - How can we make this application well suited to be played on a laptop? This is a question we want to consider moving forth into this project.
+* How AI or another resource has been used, if applicable.
+ - We haven't used any AI since milestone 2.
+* How your team is dividing and combining the work. If your team is using a shared repository, include the link showing commits from each team member. Otherwise, briefly describe who is working on what and how the team is combining its contributions.
+
 # Milestone 2: Design
 1. Pseudocode:
 `First outputs a card For Player 1

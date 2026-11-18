@@ -10,6 +10,15 @@
  - We haven't used any AI since milestone 2.
 * How your team is dividing and combining the work. If your team is using a shared repository, include the link showing commits from each team member. Otherwise, briefly describe who is working on what and how the team is combining its contributions.
 
+**Functions Breakdown:**
+getNewCard() = outputs and removes a random card from the list Cards. 
+getSum(int counter) = returns the sum of all the cards the players dealt and how far away they are from 21. 
+getHint() = returns the probability of the next card increasing the sum to 21
+
+**Additional variables**
+List call Deck
+- contains all 52 cards (no jokers)
+
 # Milestone 2: Design
 1. Pseudocode:
 `First outputs a card For Player 1
